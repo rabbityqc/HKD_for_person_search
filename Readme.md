@@ -30,6 +30,7 @@ objective in detection and Re-ID subtasks.Finally, our method gain sota-of-the-a
 |           | SeqNet+HKD | 51.49(+4.79)     | 85.12(+1.72)     |       |
 |           | COAT*      | 52.45            | 86               | -     |
 |           | COAT+HKD   | **53.49(+1.04)** | **86.63(+0.63)** |       |
+
 note:* indicates the experimental results we reproduced.
 
 **Fig.3 Evaluation of two test samples.**
